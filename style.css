@@ -1,5 +1,5 @@
 @charset "UTF-8";
-h1, .h1 {
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
   font-family: "Bodoni Moda", serif;
   font-optical-sizing: auto;
   font-weight: 400;
